@@ -1,0 +1,2 @@
+# motds
+MOTD Collection
