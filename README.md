@@ -48,4 +48,4 @@ Note: If you don't see the degree Celsius character correctly (`º`) make sure y
   $ touch ~/.bash_profile
   ```
 
-4. Download or [copy raw](#fixme) `motd-pi.sh` bash script to your new `~/.bash_profile` using your favourite editor (e.g. `vi` or `nano`)
+4. Download or [copy raw](https://raw.githubusercontent.com/mike-t/pi-motd/main/pi-motd.sh) `pi-motd.sh` bash script to your new `~/.bash_profile` using your favourite editor (e.g. `vi` or `nano`)
