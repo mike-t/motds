@@ -4,6 +4,8 @@
 
 My working dynamic Linux MOTD displayed when accessing device by SSH or terminal directly. Primarily designed for Raspberry Pi.
 
+!["Pi-MOTD in an SSH Terminal"](https://user-images.githubusercontent.com/727393/228779445-344d1573-942d-40a0-90f3-ba1b57b38ddb.png "Pi-MOTD in an SSH Terminal Example")
+
 ## Credits
 Thanks to others for advice and MOTD examples, including:
 * **Gagle** installation and MOTD samples https://github.com/gagle/raspberrypi-motd
@@ -11,6 +13,9 @@ Thanks to others for advice and MOTD examples, including:
 ## Compatibility
 Designed for and tested on Raspberry Pi 3 Model B Rev 1.2 (Linux 5.15.84-v8+ aarch64 GNU/Linux) (Debian 11 Bullseye)
 Written in pure Bash. No need to install any packages.
+
+## Performance
+Loads in ~0.51s on the test platform listed in (Compatibility)[#Compatibility]. The script is blocking, so if that matters to you be careful what and how much you add to this :) 
 
 ## Installation
 The following steps may vary depending on the OS. Debian 11 (Bullseye) is assumed.
