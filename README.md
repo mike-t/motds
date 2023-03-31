@@ -4,7 +4,7 @@
 
 My working dynamic Linux MOTD displayed when accessing device by SSH or terminal directly. Primarily designed for Raspberry Pi.
 
-!["Pi-MOTD in an SSH Terminal"](https://user-images.githubusercontent.com/727393/228779445-344d1573-942d-40a0-90f3-ba1b57b38ddb.png "Pi-MOTD in an SSH Terminal Example")
+!["Pi-MOTD in an SSH Terminal"](https://user-images.githubusercontent.com/727393/229028846-08b79e78-d4a4-46f1-93cc-e83f5d50dc63.png "Pi-MOTD in an SSH Terminal Example")
 
 ## Credits
 Thanks to others for advice and MOTD examples, including:
